@@ -1,1 +1,6 @@
 BrainMRI-CycleGAN training codes and example MR images are given on this page.
+
+
+vmt-ad4cls-org-res18-50-ep25-lr-e-4-23may25.ipynb file includes the deep transfer learning performance evaluation with the ResNet18 and ResNet50 backbones trained by the original Alzheimer's dataset.
+
+vmt-ad4cls-ext-res18-50-ep25-lr-e-4-23may25.ipynb file includes the deep transfer learning performance evaluation with the ResNet18 and ResNet50 backbones trained by the extended Alzheimer's dataset.
