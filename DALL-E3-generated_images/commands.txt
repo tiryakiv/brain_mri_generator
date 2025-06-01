@@ -1,0 +1,9 @@
+https://openai.com/index/dall-e-3/
+
+
+please generate human brain T1-weighted axial magnetic resonance image with no dementia symptoms
+please generate human brain T1-weighted axial magnetic resonance image with very mild dementia symptoms
+please generate human brain T1-weighted axial magnetic resonance image with mild dementia symptoms
+please generate human brain T1-weighted axial magnetic resonance image with moderate dementia symptoms
+
+Images were generated from 1 May 2025 to 15 May 2025. 
